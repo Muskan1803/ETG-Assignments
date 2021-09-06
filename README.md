@@ -1,5 +1,6 @@
 An inventory management system project that allows user to manage and maintain his/her inventory with ease. This inventory management system has been developed to allow users to add item to an inventory, delete item from inventory, Purchase item from Inventory, Update price of the product in the inventory and other details, update inventory status and also get a Sales.json file for the sales record purpose.
 
+##### I am working on this project during my internship period at ETG(Elite Techno Group) it's a great opportunity for learning with the help of guidance provided by experts in that field. 
 # Features Provided :
 The Inventory is consist of more than 30 products and each product has 5 attributes (i.e ProductName, ProductPrice, Category, Quantity, Durability)
 
