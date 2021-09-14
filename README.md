@@ -16,5 +16,7 @@ The Inventory is consist of more than 30 products and each product has 5 attribu
 #### 5.Delete Items From Inventory : Owner can Delete entire Product with all its attributes form the inventory and can view the updated inventory and also can purchase the product.
 #### 6.View Total Sales in Inventory : Owner can see a seperate Total sales record by calling this option in a json format.
 
-
+# all the assignments related to ETG i have used to save them all in one repository .!!
+#### * LMS
+#### ** Analysis of olympics data 
 
